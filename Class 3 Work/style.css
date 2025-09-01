@@ -1,0 +1,48 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 20px;  
+}
+.modeBtn{
+    font-style: italic;
+}
+body.blackColor{
+    background-color: black;
+    color: white;
+}
+.read_One{
+    text-align: center;
+    padding: 20px;
+}
+.read_Two{
+    text-align: center;
+    padding: 20px;
+}
+.read_Three{
+    text-align: center;
+    padding: 20px;
+}
+.read_Four{
+    text-align: center;
+    padding: 20px;
+}
+.read_More_one{
+    width: 200px;
+}
+.read_More_two{
+    width: 200px;
+}
+.read_More_three{
+    width: 200px;
+}
+.read_More_four{
+    width: 200px;
+}
+.animate_btn{
+    font-style: italic;
+}
+.box{
+    background: darkblue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
